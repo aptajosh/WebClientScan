@@ -5,7 +5,7 @@ So here is a finaly solution.
  
  
  # References
- client side scanning- https://www.codeproject.com/Articles/493333/Client-Side-Printing-Scanning-in-NET
- CORS Enabled- https://code.msdn.microsoft.com/windowsdesktop/Implementing-CORS-support-c1f9cd4b
- WIA Scan- https://www.codeproject.com/Tips/792316/WIA-Scanner-in-Csharp-Windows-Forms
+  * client side scanning- https://www.codeproject.com/Articles/493333/Client-Side-Printing-Scanning-in-NET
+  * CORS Enabled- https://code.msdn.microsoft.com/windowsdesktop/Implementing-CORS-support-c1f9cd4b
+  * WIA Scan- https://www.codeproject.com/Tips/792316/WIA-Scanner-in-Csharp-Windows-Forms
  
