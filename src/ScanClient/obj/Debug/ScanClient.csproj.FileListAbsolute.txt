@@ -8,3 +8,13 @@ C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.pdb
 C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\CORS.Enabled.dll
 C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\CORS.Enabled.pdb
 C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.csprojResolveAssemblyReference.cache
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Debug\ScanClient.exe.config
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Debug\ScanClient.exe
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Debug\ScanClient.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Debug\CORS.Enabled.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Debug\CORS.Enabled.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Debug\ScanClient.csprojResolveAssemblyReference.cache
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Debug\ScanClient.Properties.Resources.resources
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Debug\ScanClient.csproj.GenerateResource.Cache
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Debug\ScanClient.exe
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Debug\ScanClient.pdb

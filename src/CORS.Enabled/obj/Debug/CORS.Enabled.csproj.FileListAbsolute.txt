@@ -2,3 +2,8 @@ C:\Users\Vistrut\Desktop\ScanClient\CORS.Enabled\bin\Debug\CORS.Enabled.dll
 C:\Users\Vistrut\Desktop\ScanClient\CORS.Enabled\bin\Debug\CORS.Enabled.pdb
 C:\Users\Vistrut\Desktop\ScanClient\CORS.Enabled\obj\Debug\CORS.Enabled.dll
 C:\Users\Vistrut\Desktop\ScanClient\CORS.Enabled\obj\Debug\CORS.Enabled.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\bin\Debug\CORS.Enabled.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\bin\Debug\CORS.Enabled.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\obj\Debug\CORS.Enabled.csprojResolveAssemblyReference.cache
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\obj\Debug\CORS.Enabled.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\obj\Debug\CORS.Enabled.pdb
