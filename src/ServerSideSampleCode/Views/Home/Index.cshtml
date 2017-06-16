@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <h1 class=" text-center"> Scan Client Test Application </h1>
+    <hr />
+    <button id="btnScan" class="btn btn-primary"name="Scan" value="Scan">Scan</button>
+    <hr />
+    <div id="scanPreview">
+        <div class="text-center"><h4 >Preview</h4></div>
+        <div class="text-center"><img src="#" alt="scanned image" id="scannedImg" /></div>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/jquery.ajax-cross-origin.min.js"></script>
+
+    <script type="text/javascript">
+        $('document').ready(function () {
+            $('#scanPreview').hide();
+            $('#btnScan').click(function (e) {
+                e.preventDefault();
+               
+                $.ajax({
+                    crossOrigin: true,
+                    //proxy: "http://www.domain.com/path/proxy.php" -> to overide default proxy
+                    url: "http://localhost:1122/ScanService/ScanDirect",
+                    success: function (data) {
+                        if (data.startsWith('Error:')) {
+                            toastr.error(data);
+                        }
+                        else {
+                            $('#scannedImg').attr('src', 'data:image/jpg; base64,' + data);
+                            $('#scanPreview').show();
+                            toastr.success('Image scanned successfully');
+                        }
+                       
+                        
+                    }
+                });
+            });
+               
+            
+        });
+    </script>
+    }

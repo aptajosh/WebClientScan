@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanClient", "ScanClient\Sc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORS.Enabled", "CORS.Enabled\CORS.Enabled.csproj", "{CD47E419-3765-44DE-B403-7B48D4B0FDFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSideSampleCode", "ServerSideSampleCode\ServerSideSampleCode.csproj", "{BC7F0137-0ACB-4D56-AC0C-381BCBF47C6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CD47E419-3765-44DE-B403-7B48D4B0FDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD47E419-3765-44DE-B403-7B48D4B0FDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD47E419-3765-44DE-B403-7B48D4B0FDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7F0137-0ACB-4D56-AC0C-381BCBF47C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7F0137-0ACB-4D56-AC0C-381BCBF47C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7F0137-0ACB-4D56-AC0C-381BCBF47C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7F0137-0ACB-4D56-AC0C-381BCBF47C6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

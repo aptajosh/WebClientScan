@@ -33,7 +33,7 @@ namespace ScanClient.Service
             {
                 Debug.WriteLine(ex.Message);
                 Debug.WriteLine(String.Format("Device Id is {0}",deviceId));
-                return ex.Message;
+                return "Error: "+ ex.Message;
             }
         }
 
@@ -70,7 +70,7 @@ namespace ScanClient.Service
             catch (Exception ex)
             {
                 Debug.WriteLine(ex.Message);
-                return "Error: "+String.Empty;
+                return "Error: "+ex.Message;
             }
 
             
