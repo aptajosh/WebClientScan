@@ -16,14 +16,12 @@ namespace ServerSideSampleCode.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "This is a server-side application sample for Scan Client.";
-
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
-
+            ViewBag.Message = "I am happy to help you. Contact me on following email Id";
             return View();
         }
     }
