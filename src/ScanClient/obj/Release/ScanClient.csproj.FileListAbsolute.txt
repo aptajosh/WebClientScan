@@ -1,0 +1,12 @@
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\ScanClient.exe.config
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\ScanClient.exe
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\ScanClient.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\CORS.Enabled.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\CORS.Enabled.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Release\ScanClient.csprojResolveAssemblyReference.cache
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Release\ScanClient.Properties.Resources.resources
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Release\ScanClient.csproj.GenerateResource.Cache
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Release\ScanClient.exe
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\obj\Release\ScanClient.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\Resources\Interop.WIA.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\ScanClient\bin\Release\Resources\favicon.ico

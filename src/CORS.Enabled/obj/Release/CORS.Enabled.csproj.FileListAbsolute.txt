@@ -1,0 +1,4 @@
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\bin\Release\CORS.Enabled.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\bin\Release\CORS.Enabled.pdb
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\obj\Release\CORS.Enabled.dll
+C:\Users\Vistrut\Documents\GitHub\WebClientScan\src\CORS.Enabled\obj\Release\CORS.Enabled.pdb
