@@ -1,0 +1,10 @@
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.Properties.Resources.resources
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.csproj.GenerateResource.Cache
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\ScanClient.exe.config
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\ScanClient.exe
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\ScanClient.pdb
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.exe
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.pdb
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\CORS.Enabled.dll
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\bin\Debug\CORS.Enabled.pdb
+C:\Users\Vistrut\Desktop\ScanClient\ScanClient\obj\Debug\ScanClient.csprojResolveAssemblyReference.cache
