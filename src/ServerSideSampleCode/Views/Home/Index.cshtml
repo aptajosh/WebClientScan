@@ -25,7 +25,7 @@
                 $.ajax({
                     crossOrigin: true,
                     //proxy: "http://www.domain.com/path/proxy.php" -> to overide default proxy
-                    url: "http://localhost:1122/ScanService/ScanDefault",
+                    url: "http://localhost:1122/ScanService/ScanDirect",
                     success: function (data) {
                         if (data.startsWith('Error:')) {
                             toastr.error(data);
